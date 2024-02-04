@@ -1,5 +1,5 @@
-# Lenovo L470 OpenCore
-Hackintosh OpenCore 0.7.4 EFI files for HP EliteBook 840 G5 Sonoma (Previosuly on Montenery)
+# HP-EliteBook-840-G5 OpenCore
+Hackintosh OpenCore EFI files for HP EliteBook 840 G5 Sonoma (Previosuly on Montenery)
 
 ![840 G5](Image/SystemInfo.png)
 
