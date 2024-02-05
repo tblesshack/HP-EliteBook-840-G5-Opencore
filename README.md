@@ -28,10 +28,10 @@ Hackintosh OpenCore EFI files for HP EliteBook 840 G5 Sonoma (Previosuly on Mont
 - [x] Battery
 - [x] HDMI
 - [x] USB C Charging
-- [ ] Backlight
+- [x] Backlight
+- [x] Bluetooth
 # What's not working ⚠️
 - [ ] Mousepad 2 Physical Buttons
-- [ ] Bluetooth
 - [ ] FingerPrint
 # Yet To Test
 - DRM Support
